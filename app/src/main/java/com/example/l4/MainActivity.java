@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
         b4 = (ImageView)findViewById(R.id.b4);
         c4 = (ImageView)findViewById(R.id.c4);
 
-
         a1 = (TextView)findViewById(R.id.a1);
         a2 = (TextView)findViewById(R.id.a2);
 
